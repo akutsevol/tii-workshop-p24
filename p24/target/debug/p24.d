@@ -1,1 +1,0 @@
-/Users/aliakseikutsevol/Temp/rust/tii-workshop-p24/p24/target/debug/p24: /Users/aliakseikutsevol/Temp/rust/tii-workshop-p24/p24/src/main.rs /Users/aliakseikutsevol/Temp/rust/tii-workshop-p24/p24/src/refs.rs
