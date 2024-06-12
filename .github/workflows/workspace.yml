@@ -2,7 +2,7 @@ name: Workspace
 
 on:
   push:
-    branches: [ "master", "feature/calculator", "feature/figures", "feature/song", "feature/tic-tac-toe" ]
+    branches: [ "master", "feature/fixing_bad_code", "feature/references" ]
   pull_request:
     branches: [ "master" ]
 
