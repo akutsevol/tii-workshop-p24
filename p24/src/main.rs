@@ -21,7 +21,7 @@ fn main() {
 }
 
 // Removed the reference from the n parameter, as it's not needed to be a reference.
-fn nth_item<'a>(data: &'a [usize], n: usize) -> &'a usize {
+fn nth_item(data: &[usize], n: usize) -> &usize {
     &data[n]
 }
 
