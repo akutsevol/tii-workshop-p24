@@ -36,7 +36,7 @@ pub fn f4(slice: &[u32]) -> [&[u32]; 4] {
 // ● Write unit tests for all functions
 #[cfg(test)]
 mod tests {
-    use crate::{f1,f2,f3,f4};
+    use crate::{f1, f2, f3, f4};
     // use super::*;
     #[test]
     fn test_f1_false() {
